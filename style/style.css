@@ -57,6 +57,7 @@ body {
 .three {
   font-size: 2rem;
   color: darkblue;
+  transition-delay: 2s;
 }
 
 .four .text-box {
