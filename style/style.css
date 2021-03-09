@@ -57,7 +57,6 @@ body {
 .three {
   font-size: 2rem;
   color: darkblue;
-  visibility: collapse;
 }
 
 .four .text-box {
