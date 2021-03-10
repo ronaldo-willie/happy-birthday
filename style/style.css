@@ -55,6 +55,7 @@ body {
 }
 
 .three {
+  transition-delay: 1s;
   font-size: 2rem;
   color: darkblue;
 }
