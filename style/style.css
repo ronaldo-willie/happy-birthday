@@ -55,7 +55,6 @@ body {
 }
 
 .three {
-  transition-delay: 1s;
   font-size: 2rem;
   color: darkblue;
 }
@@ -67,6 +66,7 @@ body {
   border-radius: 5px;
   padding: 10px;
   position: relative;
+  transition-delay: 1s;
 }
 
 .text-box p {
